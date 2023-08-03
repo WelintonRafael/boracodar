@@ -3,3 +3,12 @@ background-color: blue;
 color: whitesmoke;
 
 }
+.contanner {
+
+width: 1400px;
+height: 900px;
+background-color:#8323FF;
+border-width: 2px;
+border-bottom: 10px;
+display: flex;
+}
